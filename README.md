@@ -16,4 +16,7 @@ Hacerlo en `cierre/download.py`
 tomar la columna "text" y armar un top 5 de las palabras mas utilizadas omitiendo las palabras que se deja en `stop_es.txt` 
 
 
+Se puede utilizar Counter
+https://docs.python.org/3/library/collections.html#collections.Counter
+
 
